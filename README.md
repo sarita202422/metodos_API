@@ -17,9 +17,9 @@ Este proyecto es una demostración práctica de cómo funcionan los distintos m�
 1. Clona este repositorio o descarga los archivos en tu equipo.
 
 2. Abre una terminal en la carpeta del proyecto y ejecuta:
-   ```bash
+```bash
 pip install fastapi uvicorn
-
+```
 3.iniciar el servidor con el siguiente comando: python -m uvicorn main:app --reload
 4. abrir el navegador e ingresar a: http://127.0.0.1:8000/docs
 para probar la API simplemente debes presionar cada metodo, hacer click en "try it out", ejecutar y observar las respuestas
