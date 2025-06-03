@@ -27,4 +27,4 @@ pip install fastapi uvicorn
 5. abrir el navegador e ingresar a: http://127.0.0.1:8000/docs
 
 para probar la API simplemente debes presionar cada metodo, hacer click en "try it out", ejecutar y observar las respuestas
-
+(funcional solo con xampp)
