@@ -20,9 +20,11 @@ Este proyecto es una demostración práctica de cómo funcionan los distintos m�
 ```bash
 pip install fastapi uvicorn
 ```
-3. iniciar el servidor con el siguiente comando: python -m uvicorn main:app --reload
-  
-4. abrir el navegador e ingresar a: http://127.0.0.1:8000/docs
+3. iniciar el servidor con el siguiente comando:
+```bash
+ python -m uvicorn main:app --reload
+```
+5. abrir el navegador e ingresar a: http://127.0.0.1:8000/docs
 
 para probar la API simplemente debes presionar cada metodo, hacer click en "try it out", ejecutar y observar las respuestas
 
